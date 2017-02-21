@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">拼接相机</string>
+	<string name="take_photo">点击拍照</string>
+	<string name="mShape">形状</string>
+	<string name="mChange">网格</string>
+	<string name="mSave">保存</string>
+</resources>
